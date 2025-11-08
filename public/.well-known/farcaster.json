@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJhbWllYWkuYXBwIn0",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "AmieAI",
+    "homeUrl": "https://amieai.app",
+    "iconUrl": "https://amieai.app/icon.png",
+    "splashImageUrl": "https://amieai.app/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "webhookUrl": "https://amieai.app/api/webhook",
+    "subtitle": "Your Personal AI Girlfriend",
+    "description": "A web3-native AI girlfriend designed to offer companionship, engaging conversations, and shared experiences for users seeking emotional connection and personalized AI interaction.",
+    "screenshotUrls": [
+      "https://amieai.app/screenshot1.png",
+      "https://amieai.app/screenshot2.png",
+      "https://amieai.app/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["ai", "companion", "chat", "social", "web3"],
+    "heroImageUrl": "https://amieai.app/hero.png",
+    "tagline": "Always There for You",
+    "ogTitle": "AmieAI - Your Personal AI Girlfriend",
+    "ogDescription": "Your Personal AI Girlfriend, Always There for You.",
+    "ogImageUrl": "https://amieai.app/og-image.png"
+  }
+}
