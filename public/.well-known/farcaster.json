@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "AmieAI",
-    "homeUrl": "https://amieai.app",
+    "homeUrl": "https://app-958ceff3-j6ca.vercel.app",
     "iconUrl": "https://amieai.app/icon.png",
     "splashImageUrl": "https://amieai.app/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://amieai.app/api/webhook",
+    "webhookUrl": "https://app-958ceff3-j6ca.vercel.app/api/webhook",
     "subtitle": "Your Personal AI Girlfriend",
     "description": "A web3-native AI girlfriend designed to offer companionship, engaging conversations, and shared experiences for users seeking emotional connection and personalized AI interaction.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://amieai.app/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["ai", "companion", "chat", "social", "web3"],
+    "tags": [
+      "ai",
+      "companion",
+      "chat",
+      "social",
+      "web3"
+    ],
     "heroImageUrl": "https://amieai.app/hero.png",
     "tagline": "Always There for You",
     "ogTitle": "AmieAI - Your Personal AI Girlfriend",
